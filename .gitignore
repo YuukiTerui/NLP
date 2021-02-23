@@ -5,3 +5,11 @@ notebook/yahooappid.txt
 notebook/all_categories.csv
 notebook/.ipynb_checkpoints/NLUapikey-checkpoint.txt
 notebook/NLUapikey.txt
+ja.zip
+ja/ja.bin
+ja/ja.bin.syn0.npy
+ja/ja.bin.syn1neg.npy
+ja/ja.tsv
+nlp/Lib/site-packages/__pycache__/easy_install.cpython-39.pyc
+nlp/*
+nlu/*
